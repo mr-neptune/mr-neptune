@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://wayne-wen.dev"><img src="https://img.shields.io/badge/wayne--wen.dev-f4a6bd?style=flat-square" alt="Website: wayne-wen.dev"></a>
   <a href="https://www.linkedin.com/in/wayne-wen-aba0662b2"><img src="https://img.shields.io/badge/LinkedIn-2f4a78?style=flat-square" alt="LinkedIn"></a>
   <a href="https://mr-neptune.github.io/2048-Auto/"><img src="https://img.shields.io/badge/Watch_my_2048_agent_play-3f6f70?style=flat-square" alt="Watch my 2048 agent play"></a>
   <a href="https://github.com/mr-neptune/2048-Auto"><img src="https://img.shields.io/badge/2048--Auto-141a3c?style=flat-square" alt="2048-Auto"></a>
